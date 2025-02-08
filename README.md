@@ -26,8 +26,8 @@ This is a simple real-time chat application built using **HTML**, **CSS**, **Jav
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/chat-application.git
-    cd chat-application
+    git clone https://github.com/shagufta-01/WeChat-application.git
+    cd WeChat-application
     ```
 
 2. Install the required dependencies:
